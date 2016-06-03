@@ -1,0 +1,28 @@
+{
+  "name": "chmod-octal-help",
+  "version": "1.0.0",
+  "description": "Command line that display help on the chmod octal values",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mickilous/chmod-octal-help.git"
+  },
+  "keywords": [
+    "chmod",
+    "help",
+    "octal"
+  ],
+  "author": "mickilous@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mickilous/chmod-octal-help/issues"
+  },
+  "homepage": "https://github.com/mickilous/chmod-octal-help#readme",
+  "preferGlobal": true,
+  "bin": {
+    "chmoct": "app.js"
+  }
+}
